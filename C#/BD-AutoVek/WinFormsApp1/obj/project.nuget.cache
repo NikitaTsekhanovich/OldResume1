@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FeiGxIp49d2IHy6ZSJfpOa47zhp9OheQ9Dvj4EzZEbe5eUaaUHQh1ZcNRrlsKa55fFwaic5imSIKKuOdr5aLjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\honor\\source\\repos\\Excel — копия — копия\\WinFormsApp1\\Excel.App.Windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\honor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

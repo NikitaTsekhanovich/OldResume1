@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Excel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Excel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Excel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excel/1.0.0": {
+      "type": "project",
+      "path": "../Excel.Domain/Excel.csproj",
+      "msbuildProject": "../Excel.Domain/Excel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Excel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\honor\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\honor\\source\\repos\\Excel — копия — копия\\WinFormsApp1\\Excel.App.Windows.csproj",
+      "projectName": "Excel.App.Windows",
+      "projectPath": "C:\\Users\\honor\\source\\repos\\Excel — копия — копия\\WinFormsApp1\\Excel.App.Windows.csproj",
+      "packagesPath": "C:\\Users\\honor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\honor\\source\\repos\\Excel — копия — копия\\WinFormsApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\honor\\source\\repos\\Excel — копия — копия\\Excel.Domain\\Excel.csproj": {
+              "projectPath": "C:\\Users\\honor\\source\\repos\\Excel — копия — копия\\Excel.Domain\\Excel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.24, 3.1.24]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

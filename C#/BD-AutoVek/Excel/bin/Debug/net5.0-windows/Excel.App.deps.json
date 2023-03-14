@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Excel.App/1.0.0": {
+        "dependencies": {
+          "Excel": "1.0.0"
+        },
+        "runtime": {
+          "Excel.App.dll": {}
+        }
+      },
+      "Excel/1.0.0": {
+        "runtime": {
+          "Excel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excel.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Excel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

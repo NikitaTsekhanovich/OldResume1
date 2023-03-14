@@ -1,0 +1,65 @@
+C:\Users\honor\source\repos\Excel\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.AssemblyReference.cache
+C:\Users\honor\source\repos\Excel\Excel.Domain\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\honor\source\repos\Excel\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.ResolveComReference.cache
+C:\Users\honor\source\repos\Excel\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honor\source\repos\Excel\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfoInputs.cache
+C:\Users\honor\source\repos\Excel\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfo.cs
+C:\Users\honor\source\repos\Excel\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.CoreCompileInputs.cache
+C:\Users\honor\source\repos\Excel\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.deps.json
+C:\Users\honor\source\repos\Excel\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.dll
+C:\Users\honor\source\repos\Excel\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.pdb
+C:\Users\honor\source\repos\Excel\Excel.Domain\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\honor\source\repos\Excel\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.dll
+C:\Users\honor\source\repos\Excel\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.pdb
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.deps.json
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.dll
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.pdb
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.AssemblyReference.cache
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.ResolveComReference.cache
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfoInputs.cache
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfo.cs
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.CoreCompileInputs.cache
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.dll
+C:\Users\honor\source\repos\Excel — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.pdb
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.deps.json
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.dll
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.pdb
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.AssemblyReference.cache
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.ResolveComReference.cache
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfoInputs.cache
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfo.cs
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.CoreCompileInputs.cache
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.dll
+C:\Users\honor\source\repos\Excel — копия — копия\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.pdb
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.deps.json
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.dll
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.pdb
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.AssemblyReference.cache
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.ResolveComReference.cache
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfoInputs.cache
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfo.cs
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.dll
+C:\Users\Алексей\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.pdb
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.deps.json
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.dll
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\bin\Debug\netcoreapp3.1\Excel.pdb
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.AssemblyReference.cache
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.ResolveComReference.cache
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfoInputs.cache
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.AssemblyInfo.cs
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.csproj.CoreCompileInputs.cache
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.dll
+C:\Users\honor\source\repos\BD-Autovek-\BD-Autovek-\Excel.Domain\obj\Debug\netcoreapp3.1\Excel.pdb

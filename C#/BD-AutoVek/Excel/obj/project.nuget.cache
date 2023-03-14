@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "epmh4xOrp+hoY89q31hwotRFKw9QG3DjNm0smApGvPNNgVycfkOeTrQ3ko4DsKncKR+kLhT+SsEOrV8VmJLSIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\honor\\source\\repos\\BD-Autovek-\\BD-Autovek-\\Excel\\Excel.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\honor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

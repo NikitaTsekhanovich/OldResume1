@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddOrChangeAutoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AuthorizationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AuthorizationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarsInformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChoosingDocumentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientActionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddOrChangeAutoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarsInformationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChoosingDocumentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientActionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientSearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
