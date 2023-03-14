@@ -1,0 +1,25 @@
+using UnityEngine;
+
+public class SwitchStreet1 : MonoBehaviour, ISwitch
+{
+    public GameObject activeLocation;
+    public GameObject nextLocation;
+    public GameObject sun;
+    public GameObject sky;
+    public GameObject switchLocation_1;
+    public GameObject switchLocation_2;
+
+    public void OnTriggerStay2D(Collider2D other)
+    {
+        var space = Input.GetKeyUp(KeyCode.Tab);
+        if (space)
+        {
+            activeLocation.SetActive(false);
+            nextLocation.SetActive(true);
+            sky.SetActive(false);
+            sun.SetActive(false);
+            switchLocation_1.SetActive(false);
+            switchLocation_2.SetActive(false);
+        }
+    }
+}

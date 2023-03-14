@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - subject
+  - Camera2
+  - inventory
+  - Gun
+  - BlockCar
+  - Quest1
+  - Key2
+  - Key1
+  - KeyButton1
+  - KeyButton2
+  - prefab
+  - Document1
+  - DocumentButton1
+  - Coin1
+  - CoinButton1
+  - Gopnik1
+  - Coin2
+  - CoinButton2
+  - Coin3
+  - CoinButton3
+  - Beer1
+  - BeerButton1
+  - 5kopecks1
+  - 5kopecksButton1
+  - trader_2
+  - Document2
+  - DocumentButton2
+  - knife1
+  - knifeButton1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2621386001
+    locked: 0
