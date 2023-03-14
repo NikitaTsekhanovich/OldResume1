@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77bb47e7-237d-4f16-9cb2-3143c1fbb202" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BattleCity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_save_system.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus_attribute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus_damage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bonus_lives.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/castle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/level_editor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/level_editor_button_brick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/level_editor_button_empty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/level_editor_button_froze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/level_editor_button_grass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/level_editor_button_steel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/level_editor_button_water.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/level_editor_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/level_editor_settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor/new_level" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enemy_tank_crazy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enemy_tank_hulk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enemy_tank_kamikaze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/enemy_tank_predator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fire_enemy_tank_crazy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fire_enemy_tank_hulk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fire_enemy_tank_predator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fire_player_tank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kamikaze.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/screens/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/screens/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/screens/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/screens/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/screens/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/screens/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sprites.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player_tank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save blocks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save tanks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cheats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_enemy_tank_crazy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_enemy_tank_hulk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_enemy_tank_kamikaze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_enemy_tank_predator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_player_tank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_save_tanks.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_settings.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Mz8n3wSLgiG9LCFUtBYRhCZfXU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BattleCity" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77bb47e7-237d-4f16-9cb2-3143c1fbb202" name="Changes" comment="" />
+      <created>1678759218357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678759218357</updated>
+    </task>
+    <servers />
+  </component>
+</project>
