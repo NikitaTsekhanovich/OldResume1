@@ -49,7 +49,7 @@ public class Hero : MonoBehaviour
             shift = 1;
         }
         var movementVector = new Vector2(d - a, w - s);
-        hero.velocity = movementVector * acceleration * shift;
+        hero.velocity = movementVector * (acceleration * shift);
     }
 
     private void GetAnimHero(int w, int s, int a, int d, SpriteRenderer heroLookRight)
